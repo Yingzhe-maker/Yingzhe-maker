@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yingzhe-maker
+- 👋 Hi, I’m @Rintro
 - 👀 I’m interested in Programming and Computer Science.
 - 🌱 I’m currently learning CPP, Java, Python, Matlab, GIS, Remote Sensing.
 - 💞️ I’m looking to collaborate on Computer Science.
