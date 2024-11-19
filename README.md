@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Computer Science.
 - 🌱 I’m currently learning CPP, Java, Python, Matlab, GIS, Remote Sensing.
 - 💞️ I’m looking to collaborate on Computer Science.
-- 📫 How to reach me heyingzhe@outlook.com
+- 📫 How to reach me 3478388834@qq.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: I don't know.
 
